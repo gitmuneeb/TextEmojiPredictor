@@ -1,4 +1,3 @@
-# TextEmojiPredictor
 # Text Emoji Predictor
 A comprehensive emoji sentiment analysis platform that provides intelligent emoji recommendations across multiple platforms, including a web application and browser extension.
 ## Features
